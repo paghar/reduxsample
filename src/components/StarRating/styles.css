@@ -1,0 +1,39 @@
+.star-rating {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.star {
+  cursor: pointer;
+  width: 1.5em;
+  height: 1.5em;
+  background-color: #ff80b3;
+  -webkit-clip-path: polygon(
+    50% 0%,
+    63% 38%,
+    100% 38%,
+    69% 59%,
+    82% 100%,
+    50% 75%,
+    18% 100%,
+    31% 59%,
+    0% 38%,
+    37% 38%
+  );
+  clip-path: polygon(
+    50% 0%,
+    63% 38%,
+    100% 38%,
+    69% 59%,
+    82% 100%,
+    50% 75%,
+    18% 100%,
+    31% 59%,
+    0% 38%,
+    37% 38%
+  );
+}
+
+.star.selected {
+  background-color: #e6005c;
+}

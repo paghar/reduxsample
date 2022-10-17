@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> Card 1`] = `
+<div
+  className="sc-bdVaJa bZiTtu"
+>
+  <div
+    className="sc-bwzfXH eoQqZU"
+  >
+    <img
+      className="sc-bxivhb eJNyue"
+      src="1.jpg"
+    />
+    <h2
+      className="sc-htpNat icPpiZ"
+    >
+      Chicken fried steak
+    </h2>
+    <p
+      className="sc-ifAKCX gpqyoM"
+    >
+      chicken fried steak was born
+    </p>
+    <div
+      className="sc-EHOje cTTRho"
+    >
+      <div
+        className="star-rating"
+      >
+        <div
+          className="star selected"
+          onClick={[Function]}
+        />
+        <div
+          className="star"
+          onClick={[Function]}
+        />
+        <div
+          className="star"
+          onClick={[Function]}
+        />
+        <div
+          className="star"
+          onClick={[Function]}
+        />
+        <div
+          className="star"
+          onClick={[Function]}
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

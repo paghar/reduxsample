@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StarRating /> StarRating 1`] = `
+<div
+  className="star-rating"
+>
+  <div
+    className="star selected"
+    onClick={[Function]}
+  />
+</div>
+`;

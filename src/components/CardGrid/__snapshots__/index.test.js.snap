@@ -1,0 +1,1317 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardGrid /> CardGrid 1`] = `
+<div
+  className="sc-bdVaJa fmgygi"
+>
+  <button
+    className="sc-dnqmqq jizNsI"
+    onClick={[Function]}
+  >
+    <span>
+      Start Random Rating
+       
+    </span>
+  </button>
+  <ul
+    className="sc-bwzfXH ifRnlg"
+  >
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="1.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="2.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="3.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="4.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="5.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="6.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="7.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="8.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="9.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="10.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="11.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="12.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="13.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="14.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="15.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="16.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="17.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="18.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="19.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="20.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="21.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="22.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="23.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      className="sc-htpNat jwqEMN"
+    >
+      <div
+        className="sc-bxivhb ezUWkz"
+      >
+        <div
+          className="sc-ifAKCX ejNwWU"
+        >
+          <img
+            className="sc-bZQynM epMubi"
+            src="24.jpg"
+          />
+          <h2
+            className="sc-EHOje bVAOkt"
+          >
+            Chicken fried steak
+          </h2>
+          <p
+            className="sc-gzVnrw kmmynC"
+          >
+            chicken fried steak was born to go with American food classics like mashed potatoes and black-eyed peas
+          </p>
+          <div
+            className="sc-htoDjs fKhaWj"
+          >
+            <div
+              className="star-rating"
+            >
+              <div
+                className="star selected"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+              <div
+                className="star"
+                onClick={[Function]}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

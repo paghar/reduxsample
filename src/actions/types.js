@@ -1,0 +1,4 @@
+export const DISPLAY_LIST = "DISPLAY_LIST"
+export const ORDER_LIST = "ORDER_LIST"
+export const UPADATE_LIST_RATE="UPADATE_LIST_RATE"
+export const RANDOM_RATING="RANDOM_RATING"
